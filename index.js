@@ -7,7 +7,7 @@
 // 
 let box = document.getElementById("box")
 
-
+// variable declared for connection between JS and html
 // let box = document.getElementById("box")
 
 
