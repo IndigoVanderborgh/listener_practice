@@ -24,6 +24,8 @@ box.addEventListener("click", function() {
 // element.addEventListener (1st parameter, 2nd parameter) {
 //     ...
 // }
+
+// example
 // box.addEventListener("click", function() {
 //     console.log("I want to open the box")
 // })
